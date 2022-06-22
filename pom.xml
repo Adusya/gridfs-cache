@@ -11,7 +11,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<servlet.version>3.1.0</servlet.version>
-		<mongo.version>3.11.0</mongo.version>
+		<mongo.version>3.11.3</mongo.version>
 		<maven.compiler.version>3.5.1</maven.compiler.version>
 	</properties>
 
